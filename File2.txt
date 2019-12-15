@@ -1,1 +1,2 @@
 This is a file created to learn git pull command
+Adding changes in File2 for Fetch and Merge
